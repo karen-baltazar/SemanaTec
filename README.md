@@ -3,3 +3,4 @@ SemanaTec - TC1002S.101
 
 Herramientas computacionales: el arte de la analítica (Enero - Junio 2022)
 Cambios en README - main
+Cambios en README - dev
